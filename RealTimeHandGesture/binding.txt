@@ -1,0 +1,4 @@
+Ok:a
+Peace:b
+Punch:c
+Stop:
